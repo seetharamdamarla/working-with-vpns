@@ -1,4 +1,4 @@
-### 🚀 Task 8: VPN Setup and Traffic Encryption Verification
+### 🚀 **Task 8: VPN Setup and Traffic Encryption Verification**
 
 ## 📚 Objective:
 The goal of this task is to understand the role of VPNs in protecting privacy and ensuring secure communication. The task involved setting up a VPN, verifying its functionality, analyzing traffic encryption, and comparing network performance with and without VPN.
@@ -65,7 +65,7 @@ Detailed documentation on VPN benefits (privacy, encryption, bypassing restricti
 - Practical understanding of VPN impact on speed and privacy.
 - Importance of VPN protocols and privacy features.
   
-✅ Conclusion:
+## ✅ Conclusion:
 In this task, I successfully set up and used ProtonVPN 🔐 to protect my online privacy 🌐. I verified that the VPN effectively changed my IP address 🌍 and encrypted my browsing traffic 🔒. The browsing speed 📶 slightly decreased while connected to the VPN, which is expected due to encryption overhead.
 
 Overall, this task provided practical experience 🛠️ in using VPNs for secure and private internet usage.
