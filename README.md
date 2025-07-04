@@ -1,4 +1,6 @@
-### 🚀 **Task 8: VPN Setup and Traffic Encryption Verification**
+# 🚀 Task 8: VPN Setup and Traffic Encryption Verification
+
+----
 
 ## 📚 Objective:
 The goal of this task is to understand the role of VPNs in protecting privacy and ensuring secure communication. The task involved setting up a VPN, verifying its functionality, analyzing traffic encryption, and comparing network performance with and without VPN.
