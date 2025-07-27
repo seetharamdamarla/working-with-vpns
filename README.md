@@ -1,4 +1,4 @@
-# 🚀 Task 8: VPN Setup and Traffic Encryption Verification
+# 🚀 VPN Setup and Traffic Encryption Verification
 
 ----
 
