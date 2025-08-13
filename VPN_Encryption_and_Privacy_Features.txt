@@ -35,12 +35,12 @@ Key Privacy Features:
 
 3. VPN Protocols Overview
 
-| Protocol      | Speed      | Security   | Common Use               |
-|---------------|------------|------------|--------------------------|
-| OpenVPN       | Medium     | High       | General secure browsing  |
-| IKEv2/IPSec   | Fast       | High       | Mobile stability         |
+| Protocol      | Speed      | Security   | Common Use                  |
+|---------------|------------|------------|-----------------------------|
+| OpenVPN       | Medium     | High       | General secure browsing     |
+| IKEv2/IPSec   | Fast       | High       | Mobile stability            |
 | WireGuard     | Very Fast  | High       | Modern VPNs, fast streaming |
-| PPTP          | Fast       | Low        | Outdated, not recommended |
+| PPTP          | Fast       | Low        | Outdated, not recommended   |
 
 Summary:
 - VPNs encrypt traffic to ensure secure communication.
