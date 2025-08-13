@@ -1,6 +1,6 @@
-🌐 VPN Benefits and Limitations
+VPN Benefits and Limitations
 
-✅ VPN Benefits:
+VPN Benefits:
 1. Enhanced Privacy:
    - VPN hides your real IP address, making it difficult for websites and trackers to trace your online activities.
 
@@ -16,7 +16,7 @@
 5. Protection from ISP Tracking:
    - Prevents your Internet Service Provider (ISP) from monitoring and logging your browsing activity.
 
-⚠️ VPN Limitations:
+VPN Limitations:
 1. Reduced Internet Speed:
    - VPN connections can be slower due to encryption overhead and long-distance server routing.
 
